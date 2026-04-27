@@ -694,10 +694,9 @@ footer {
     padding-bottom: 15px;
 }
 
-.footer-logo{
-    font-size: 3rem;
-    font-weight: 700;
-   
+.footer-logo {
+  width: 120px;
+  height: auto;
 }
 
 .footer-inner {
@@ -935,6 +934,12 @@ footer {
     .footer-btns {
         justify-content: center;
     }
+  
+    .footer-logo {
+      width: 120px;
+      height: auto;
+      margin: 0 auto;
+  }
     
 }
 
@@ -1150,4 +1155,10 @@ footer {
     .footer-btns {
         justify-content: center;
     }
+    .footer-logo {
+      width: 120px;
+      height: auto;
+      margin: 0 auto;
+  } 
+  
 }
